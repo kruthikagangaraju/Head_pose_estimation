@@ -16,7 +16,7 @@ Next, navigate to the project directory and install the required libraries and d
 ***
 ## Usage/Examples
 
-To use the this project, run the following command in your terminal:
+To use this project, run the following command in your terminal:
 
 ```bash
   python Head_movement_estimation.py
